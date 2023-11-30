@@ -68,7 +68,7 @@ $.get("https://api.tvmaze.com/search/shows?q=breaking%20bad", (data) => {
 
 */
 
-const $divResults = $('results');
+const $divResults = $('#results');
 
 //Black Butler Start
   //Create an empty SPAN
